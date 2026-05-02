@@ -12,4 +12,5 @@
    - Analyzed regional sales performance
    
    ## Dashboard Preview
-   ![Dashboard Preview](Screenshot 2026-05-02 232811.png)# sales-dashboard-project
+  ## Dashboard Preview
+![Dashboard Preview](./Screenshot%202026-05-02%20232811.png)
