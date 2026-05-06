@@ -20,6 +20,6 @@ Created interactive visuals that help identify sales trends and growth opportuni
 - `report.pbix` - Power BI dashboard file. Open with Power BI Desktop to view interactively.
 - `Screenshot 2026-05-02 234936.png` - Dashboard screenshot for preview
 
-🔗 Author
-
-Riya Basera
+## 🔗 Author
+Riya Basera  
+Aspiring Data Analyst
